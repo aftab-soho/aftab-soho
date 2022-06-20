@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Aftab Soho. I am IT graduated. I have good skills of Web Development and Cloud Computing. I have uploaded some code of basic php and templates. 
+I am Aftab Soho. I am IT graduated. I am Website Developer and cloud computimg expert. I have made a good portfolio of templates design, logics programs, websites and redearch work on cloud.
 
 <!--
 **aftab-soho/aftab-soho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
